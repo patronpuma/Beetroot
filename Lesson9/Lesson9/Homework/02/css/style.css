@@ -1,0 +1,62 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	
+}
+.header {
+	
+	
+}
+.header > h1{
+	font-family: 'Playfair Display', sans-serif;
+	font-size: 48px;
+}
+.title_box {
+	margin-left: 30%;
+	background-color: #181818;
+	color:#fff;	
+	width: 70%;
+}
+.title {
+	
+}
+.tools {
+	margin-left: 40%;
+	width: 60%;
+	background-color: #f8be2d;
+	color: #fff;
+	margin-right: 0px;
+}
+.main {
+	padding: 10%;
+}
+.main > span{
+	margin-top: 20px;
+	font-family: 'ProximaNova', sans-serif;
+	opacity: 0.4;
+}
+.title2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: 'FuturaPT-heavy', sans-serif;
+	color: #2a2a2a;
+}
+.main > p{
+	margin-top: 20px;
+}
+.italic {
+	font-family: 'Georgiai', sans-serif;
+	font-style: italic;
+}
+.italic_black {
+	font-family: 'Georgia', sans-serif;
+	font-style: italic;
+}
